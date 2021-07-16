@@ -3,7 +3,7 @@
 首相官邸の「新型コロナワクチンについて」ページに掲載される日別の一般接種（高齢者含む）と医療従事者等の接種回数の合計から算出した各種データを配信しています。
 商用・非商用を問わずご自由に使用していただいて構いません。使用に関していかなる保証もありません。ライセンス条項をご確認ください。
 
-The total number vaccination, the number of vaccinated people, and the moving average per day of the last 7days shots in Japan. These numbers except "total_vaccinations" and some "raw" numbers are calculated from the daily official vaccination log published by the Prime Minister's Office of Japan. So please make sure that these numbers are not guaranteed officially by the Japanese government.
+The total number of vaccination, the total number of vaccinated people, and the moving average per day of the last 7days shots in Japan. These numbers except "total_vaccinations" and some "raw" numbers are calculated from the daily official vaccination log published by the Prime Minister's Office of Japan. So please make sure that these numbers are not guaranteed officially by the Japanese government.
 
 | data column | description |
 |--|--|
