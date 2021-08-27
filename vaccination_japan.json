@@ -7,7 +7,7 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 101836,
+      "daily_vaccinations_raw": 101856,
       "daily_vaccinations_per_million": 0,
       "people_fully_vaccinated": 0,
       "daily_vaccinations": 0,
@@ -19,7 +19,7 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 58188,
+      "daily_vaccinations_raw": 58211,
       "daily_vaccinations_per_million": 0,
       "people_fully_vaccinated": 0,
       "daily_vaccinations": 0,
@@ -31,7 +31,7 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 56390,
+      "daily_vaccinations_raw": 56384,
       "daily_vaccinations_per_million": 0,
       "people_fully_vaccinated": 0,
       "daily_vaccinations": 0,
@@ -43,7 +43,7 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 61853,
+      "daily_vaccinations_raw": 61807,
       "daily_vaccinations_per_million": 0,
       "people_fully_vaccinated": 0,
       "daily_vaccinations": 0,
@@ -55,7 +55,7 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 81377,
+      "daily_vaccinations_raw": 81077,
       "daily_vaccinations_per_million": 0,
       "people_fully_vaccinated": 0,
       "daily_vaccinations": 0,
@@ -67,7 +67,7 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 8362,
+      "daily_vaccinations_raw": 8239,
       "daily_vaccinations_per_million": 0,
       "people_fully_vaccinated": 0,
       "daily_vaccinations": 0,
@@ -79,10 +79,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 9358,
-      "daily_vaccinations_per_million": 426,
+      "daily_vaccinations_raw": 9334,
+      "daily_vaccinations_per_million": 425,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 53909,
+      "daily_vaccinations": 53844,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -91,10 +91,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 155958,
-      "daily_vaccinations_per_million": 487,
+      "daily_vaccinations_raw": 155500,
+      "daily_vaccinations_per_million": 486,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 61640,
+      "daily_vaccinations": 61507,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -103,10 +103,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 182617,
-      "daily_vaccinations_per_million": 627,
+      "daily_vaccinations_raw": 182025,
+      "daily_vaccinations_per_million": 626,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 79416,
+      "daily_vaccinations": 79195,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -115,10 +115,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 219553,
-      "daily_vaccinations_per_million": 812,
+      "daily_vaccinations_raw": 219109,
+      "daily_vaccinations_per_million": 809,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 102725,
+      "daily_vaccinations": 102441,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -127,10 +127,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 213870,
-      "daily_vaccinations_per_million": 983,
+      "daily_vaccinations_raw": 213505,
+      "daily_vaccinations_per_million": 981,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 124442,
+      "daily_vaccinations": 124112,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -139,10 +139,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 238549,
-      "daily_vaccinations_per_million": 1161,
+      "daily_vaccinations_raw": 237975,
+      "daily_vaccinations_per_million": 1158,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 146895,
+      "daily_vaccinations": 146526,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -151,10 +151,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 38858,
-      "daily_vaccinations_per_million": 1195,
+      "daily_vaccinations_raw": 38756,
+      "daily_vaccinations_per_million": 1192,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 151251,
+      "daily_vaccinations": 150886,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -163,10 +163,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 23685,
-      "daily_vaccinations_per_million": 1212,
+      "daily_vaccinations_raw": 23637,
+      "daily_vaccinations_per_million": 1209,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 153298,
+      "daily_vaccinations": 152929,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -175,10 +175,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 329431,
-      "daily_vaccinations_per_million": 1408,
+      "daily_vaccinations_raw": 328793,
+      "daily_vaccinations_per_million": 1404,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 178080,
+      "daily_vaccinations": 177685,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -187,10 +187,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 289050,
-      "daily_vaccinations_per_million": 1528,
+      "daily_vaccinations_raw": 288218,
+      "daily_vaccinations_per_million": 1524,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 193285,
+      "daily_vaccinations": 192856,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -199,10 +199,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 331028,
-      "daily_vaccinations_per_million": 1654,
+      "daily_vaccinations_raw": 330450,
+      "daily_vaccinations_per_million": 1650,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 209210,
+      "daily_vaccinations": 208762,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -211,10 +211,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 20131,
-      "daily_vaccinations_per_million": 1435,
+      "daily_vaccinations_raw": 20042,
+      "daily_vaccinations_per_million": 1432,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 181533,
+      "daily_vaccinations": 181124,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -223,10 +223,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 346176,
-      "daily_vaccinations_per_million": 1556,
+      "daily_vaccinations_raw": 345472,
+      "daily_vaccinations_per_million": 1553,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 196908,
+      "daily_vaccinations": 196481,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -235,10 +235,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 40163,
-      "daily_vaccinations_per_million": 1558,
+      "daily_vaccinations_raw": 40024,
+      "daily_vaccinations_per_million": 1554,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 197094,
+      "daily_vaccinations": 196662,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -247,10 +247,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 25529,
-      "daily_vaccinations_per_million": 1560,
+      "daily_vaccinations_raw": 25639,
+      "daily_vaccinations_per_million": 1557,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 197358,
+      "daily_vaccinations": 196948,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -259,10 +259,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 8318,
-      "daily_vaccinations_per_million": 1197,
+      "daily_vaccinations_raw": 8335,
+      "daily_vaccinations_per_million": 1195,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 151485,
+      "daily_vaccinations": 151168,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -271,10 +271,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 9168,
-      "daily_vaccinations_per_million": 881,
+      "daily_vaccinations_raw": 9177,
+      "daily_vaccinations_per_million": 880,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 111501,
+      "daily_vaccinations": 111305,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -283,10 +283,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 10638,
-      "daily_vaccinations_per_million": 519,
+      "daily_vaccinations_raw": 10634,
+      "daily_vaccinations_per_million": 518,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 65731,
+      "daily_vaccinations": 65617,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -295,10 +295,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 387633,
+      "daily_vaccinations_raw": 387763,
       "daily_vaccinations_per_million": 934,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 118232,
+      "daily_vaccinations": 118149,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -307,10 +307,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 200747,
+      "daily_vaccinations_raw": 200572,
       "daily_vaccinations_per_million": 770,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 97456,
+      "daily_vaccinations": 97449,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -319,10 +319,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 69368,
+      "daily_vaccinations_raw": 69000,
       "daily_vaccinations_per_million": 803,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 101628,
+      "daily_vaccinations": 101588,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -331,10 +331,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 82605,
-      "daily_vaccinations_per_million": 868,
+      "daily_vaccinations_raw": 82497,
+      "daily_vaccinations_per_million": 867,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 109782,
+      "daily_vaccinations": 109711,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -343,10 +343,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 358976,
-      "daily_vaccinations_per_million": 1264,
+      "daily_vaccinations_raw": 358950,
+      "daily_vaccinations_per_million": 1263,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 159876,
+      "daily_vaccinations": 159799,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -355,10 +355,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 345754,
-      "daily_vaccinations_per_million": 1644,
+      "daily_vaccinations_raw": 345762,
+      "daily_vaccinations_per_million": 1643,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 207960,
+      "daily_vaccinations": 207882,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -367,10 +367,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 397739,
-      "daily_vaccinations_per_million": 2081,
+      "daily_vaccinations_raw": 397813,
+      "daily_vaccinations_per_million": 2080,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 263260,
+      "daily_vaccinations": 263193,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -379,10 +379,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 429160,
+      "daily_vaccinations_raw": 429406,
       "daily_vaccinations_per_million": 2128,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 269192,
+      "daily_vaccinations": 269142,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -391,10 +391,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 428605,
+      "daily_vaccinations_raw": 428794,
       "daily_vaccinations_per_million": 2385,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 301743,
+      "daily_vaccinations": 301746,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -403,10 +403,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 171608,
+      "daily_vaccinations_raw": 171592,
       "daily_vaccinations_per_million": 2501,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 316349,
+      "daily_vaccinations": 316402,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -415,10 +415,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 207461,
-      "daily_vaccinations_per_million": 2642,
+      "daily_vaccinations_raw": 207633,
+      "daily_vaccinations_per_million": 2643,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 334186,
+      "daily_vaccinations": 334278,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -427,10 +427,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 613116,
+      "daily_vaccinations_raw": 613015,
       "daily_vaccinations_per_million": 2929,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 370491,
+      "daily_vaccinations": 370573,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -439,10 +439,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 571157,
-      "daily_vaccinations_per_million": 3183,
+      "daily_vaccinations_raw": 571020,
+      "daily_vaccinations_per_million": 3184,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 402692,
+      "daily_vaccinations": 402753,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -451,10 +451,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 646479,
-      "daily_vaccinations_per_million": 3464,
+      "daily_vaccinations_raw": 646699,
+      "daily_vaccinations_per_million": 3465,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 438226,
+      "daily_vaccinations": 438308,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -463,10 +463,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 537028,
-      "daily_vaccinations_per_million": 3586,
+      "daily_vaccinations_raw": 537168,
+      "daily_vaccinations_per_million": 3587,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 453636,
+      "daily_vaccinations": 453703,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -475,10 +475,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 588310,
+      "daily_vaccinations_raw": 588280,
       "daily_vaccinations_per_million": 3767,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 476451,
+      "daily_vaccinations": 476486,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -487,10 +487,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 326176,
-      "daily_vaccinations_per_million": 3941,
+      "daily_vaccinations_raw": 326346,
+      "daily_vaccinations_per_million": 3942,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 498532,
+      "daily_vaccinations": 498594,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -499,10 +499,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 350186,
-      "daily_vaccinations_per_million": 4102,
+      "daily_vaccinations_raw": 350402,
+      "daily_vaccinations_per_million": 4103,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 518921,
+      "daily_vaccinations": 518990,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -511,10 +511,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 786915,
-      "daily_vaccinations_per_million": 4299,
+      "daily_vaccinations_raw": 787217,
+      "daily_vaccinations_per_million": 4300,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 543750,
+      "daily_vaccinations": 543876,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -523,10 +523,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 665801,
-      "daily_vaccinations_per_million": 4406,
+      "daily_vaccinations_raw": 666012,
+      "daily_vaccinations_per_million": 4407,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 557270,
+      "daily_vaccinations": 557446,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -535,10 +535,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 726587,
-      "daily_vaccinations_per_million": 4496,
+      "daily_vaccinations_raw": 726950,
+      "daily_vaccinations_per_million": 4498,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 568714,
+      "daily_vaccinations": 568910,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -547,10 +547,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 741629,
-      "daily_vaccinations_per_million": 4727,
+      "daily_vaccinations_raw": 741941,
+      "daily_vaccinations_per_million": 4729,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 597943,
+      "daily_vaccinations": 598164,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -559,10 +559,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 738033,
-      "daily_vaccinations_per_million": 4896,
+      "daily_vaccinations_raw": 738354,
+      "daily_vaccinations_per_million": 4898,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 619332,
+      "daily_vaccinations": 619603,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -571,10 +571,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 531235,
-      "daily_vaccinations_per_million": 5128,
+      "daily_vaccinations_raw": 531212,
+      "daily_vaccinations_per_million": 5130,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 648626,
+      "daily_vaccinations": 648869,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -583,10 +583,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 526359,
-      "daily_vaccinations_per_million": 5327,
+      "daily_vaccinations_raw": 526579,
+      "daily_vaccinations_per_million": 5329,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 673794,
+      "daily_vaccinations": 674037,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -595,10 +595,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 900358,
-      "daily_vaccinations_per_million": 5455,
+      "daily_vaccinations_raw": 900681,
+      "daily_vaccinations_per_million": 5457,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 690000,
+      "daily_vaccinations": 690247,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -607,10 +607,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 908387,
-      "daily_vaccinations_per_million": 5729,
+      "daily_vaccinations_raw": 909177,
+      "daily_vaccinations_per_million": 5732,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 724655,
+      "daily_vaccinations": 724984,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -619,10 +619,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 955553,
-      "daily_vaccinations_per_million": 5988,
+      "daily_vaccinations_raw": 956373,
+      "daily_vaccinations_per_million": 5991,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 757364,
+      "daily_vaccinations": 757759,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -631,10 +631,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 941264,
-      "daily_vaccinations_per_million": 6213,
+      "daily_vaccinations_raw": 942111,
+      "daily_vaccinations_per_million": 6217,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 785884,
+      "daily_vaccinations": 786355,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -643,10 +643,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 920273,
-      "daily_vaccinations_per_million": 6419,
+      "daily_vaccinations_raw": 920972,
+      "daily_vaccinations_per_million": 6423,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 811918,
+      "daily_vaccinations": 812443,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -655,10 +655,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 736948,
-      "daily_vaccinations_per_million": 6651,
+      "daily_vaccinations_raw": 736891,
+      "daily_vaccinations_per_million": 6655,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 841306,
+      "daily_vaccinations": 841826,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -667,10 +667,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 738384,
-      "daily_vaccinations_per_million": 6891,
+      "daily_vaccinations_raw": 738343,
+      "daily_vaccinations_per_million": 6895,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 871595,
+      "daily_vaccinations": 872078,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -679,10 +679,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1081457,
-      "daily_vaccinations_per_million": 7095,
+      "daily_vaccinations_raw": 1082242,
+      "daily_vaccinations_per_million": 7100,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 897466,
+      "daily_vaccinations": 898015,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -691,10 +691,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1100166,
-      "daily_vaccinations_per_million": 7312,
+      "daily_vaccinations_raw": 1100756,
+      "daily_vaccinations_per_million": 7316,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 924863,
+      "daily_vaccinations": 925384,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -703,10 +703,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1142101,
-      "daily_vaccinations_per_million": 7523,
+      "daily_vaccinations_raw": 1142909,
+      "daily_vaccinations_per_million": 7527,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 951513,
+      "daily_vaccinations": 952032,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -715,10 +715,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1113252,
-      "daily_vaccinations_per_million": 7717,
+      "daily_vaccinations_raw": 1114029,
+      "daily_vaccinations_per_million": 7721,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 976083,
+      "daily_vaccinations": 976591,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -727,10 +727,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1094565,
-      "daily_vaccinations_per_million": 7914,
+      "daily_vaccinations_raw": 1095147,
+      "daily_vaccinations_per_million": 7918,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1000981,
+      "daily_vaccinations": 1001473,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -739,10 +739,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 922219,
-      "daily_vaccinations_per_million": 8123,
+      "daily_vaccinations_raw": 922619,
+      "daily_vaccinations_per_million": 8128,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1027449,
+      "daily_vaccinations": 1028006,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -751,10 +751,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 910842,
-      "daily_vaccinations_per_million": 8318,
+      "daily_vaccinations_raw": 911040,
+      "daily_vaccinations_per_million": 8323,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1052086,
+      "daily_vaccinations": 1052677,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -763,10 +763,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1215676,
-      "daily_vaccinations_per_million": 8470,
+      "daily_vaccinations_raw": 1216183,
+      "daily_vaccinations_per_million": 8474,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1071260,
+      "daily_vaccinations": 1071811,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -775,10 +775,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1226600,
-      "daily_vaccinations_per_million": 8612,
+      "daily_vaccinations_raw": 1227379,
+      "daily_vaccinations_per_million": 8617,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1089322,
+      "daily_vaccinations": 1089900,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -787,10 +787,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1261152,
-      "daily_vaccinations_per_million": 8747,
+      "daily_vaccinations_raw": 1262029,
+      "daily_vaccinations_per_million": 8751,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1106329,
+      "daily_vaccinations": 1106918,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -799,10 +799,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1266641,
-      "daily_vaccinations_per_million": 8920,
+      "daily_vaccinations_raw": 1267249,
+      "daily_vaccinations_per_million": 8925,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1128242,
+      "daily_vaccinations": 1128806,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -811,10 +811,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1219723,
-      "daily_vaccinations_per_million": 9061,
+      "daily_vaccinations_raw": 1220506,
+      "daily_vaccinations_per_million": 9066,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1146121,
+      "daily_vaccinations": 1146715,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -823,10 +823,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1082710,
-      "daily_vaccinations_per_million": 9243,
+      "daily_vaccinations_raw": 1083101,
+      "daily_vaccinations_per_million": 9247,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1169049,
+      "daily_vaccinations": 1169641,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -835,10 +835,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1083086,
-      "daily_vaccinations_per_million": 9437,
+      "daily_vaccinations_raw": 1083693,
+      "daily_vaccinations_per_million": 9442,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1193655,
+      "daily_vaccinations": 1194305,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -847,10 +847,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1348415,
-      "daily_vaccinations_per_million": 9587,
+      "daily_vaccinations_raw": 1351820,
+      "daily_vaccinations_per_million": 9596,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1212618,
+      "daily_vaccinations": 1213682,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -859,10 +859,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1370274,
-      "daily_vaccinations_per_million": 9749,
+      "daily_vaccinations_raw": 1373937,
+      "daily_vaccinations_per_million": 9761,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1233143,
+      "daily_vaccinations": 1234619,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -871,10 +871,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1411599,
-      "daily_vaccinations_per_million": 9919,
+      "daily_vaccinations_raw": 1415681,
+      "daily_vaccinations_per_million": 9935,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1254635,
+      "daily_vaccinations": 1256569,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -883,10 +883,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1397066,
-      "daily_vaccinations_per_million": 10067,
+      "daily_vaccinations_raw": 1400104,
+      "daily_vaccinations_per_million": 10085,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1273267,
+      "daily_vaccinations": 1275548,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -895,10 +895,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1390231,
-      "daily_vaccinations_per_million": 10259,
+      "daily_vaccinations_raw": 1393273,
+      "daily_vaccinations_per_million": 10280,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1297625,
+      "daily_vaccinations": 1300229,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -907,10 +907,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1281278,
-      "daily_vaccinations_per_million": 10484,
+      "daily_vaccinations_raw": 1282849,
+      "daily_vaccinations_per_million": 10506,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1325992,
+      "daily_vaccinations": 1328765,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -919,10 +919,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1272093,
-      "daily_vaccinations_per_million": 10697,
+      "daily_vaccinations_raw": 1273598,
+      "daily_vaccinations_per_million": 10720,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1352993,
+      "daily_vaccinations": 1355894,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -931,10 +931,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1430875,
-      "daily_vaccinations_per_million": 10790,
+      "daily_vaccinations_raw": 1435274,
+      "daily_vaccinations_per_million": 10814,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1364773,
+      "daily_vaccinations": 1367816,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -943,10 +943,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1464871,
-      "daily_vaccinations_per_million": 10897,
+      "daily_vaccinations_raw": 1468255,
+      "daily_vaccinations_per_million": 10921,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1378287,
+      "daily_vaccinations": 1381290,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -955,10 +955,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1484635,
-      "daily_vaccinations_per_million": 10980,
+      "daily_vaccinations_raw": 1487980,
+      "daily_vaccinations_per_million": 11002,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1388721,
+      "daily_vaccinations": 1391619,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -967,10 +967,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1270357,
-      "daily_vaccinations_per_million": 10836,
+      "daily_vaccinations_raw": 1275291,
+      "daily_vaccinations_per_million": 10862,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1370620,
+      "daily_vaccinations": 1373788,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -979,10 +979,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1220961,
-      "daily_vaccinations_per_million": 10645,
+      "daily_vaccinations_raw": 1226610,
+      "daily_vaccinations_per_million": 10673,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1346438,
+      "daily_vaccinations": 1349979,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -991,10 +991,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1403785,
-      "daily_vaccinations_per_million": 10784,
+      "daily_vaccinations_raw": 1406417,
+      "daily_vaccinations_per_million": 10813,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1363939,
+      "daily_vaccinations": 1367632,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1003,10 +1003,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1325266,
-      "daily_vaccinations_per_million": 10844,
+      "daily_vaccinations_raw": 1327612,
+      "daily_vaccinations_per_million": 10874,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1371535,
+      "daily_vaccinations": 1375348,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1015,10 +1015,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1537401,
-      "daily_vaccinations_per_million": 10964,
+      "daily_vaccinations_raw": 1542069,
+      "daily_vaccinations_per_million": 10994,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1386753,
+      "daily_vaccinations": 1390604,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1027,10 +1027,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1577672,
-      "daily_vaccinations_per_million": 11091,
+      "daily_vaccinations_raw": 1581286,
+      "daily_vaccinations_per_million": 11122,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1402868,
+      "daily_vaccinations": 1406752,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1039,10 +1039,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1571635,
-      "daily_vaccinations_per_million": 11190,
+      "daily_vaccinations_raw": 1576817,
+      "daily_vaccinations_per_million": 11222,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1415296,
+      "daily_vaccinations": 1419443,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1051,10 +1051,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1559934,
-      "daily_vaccinations_per_million": 11517,
+      "daily_vaccinations_raw": 1566997,
+      "daily_vaccinations_per_million": 11552,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1456664,
+      "daily_vaccinations": 1461115,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1063,10 +1063,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1555962,
-      "daily_vaccinations_per_million": 11895,
+      "daily_vaccinations_raw": 1561405,
+      "daily_vaccinations_per_million": 11930,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1504522,
+      "daily_vaccinations": 1508943,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1075,10 +1075,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1545104,
-      "daily_vaccinations_per_million": 12055,
+      "daily_vaccinations_raw": 1550324,
+      "daily_vaccinations_per_million": 12093,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1524710,
+      "daily_vaccinations": 1529501,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1087,10 +1087,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1322909,
-      "daily_vaccinations_per_million": 12052,
+      "daily_vaccinations_raw": 1327387,
+      "daily_vaccinations_per_million": 12092,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1524373,
+      "daily_vaccinations": 1529469,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1099,10 +1099,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1452619,
-      "daily_vaccinations_per_million": 11956,
+      "daily_vaccinations_raw": 1456730,
+      "daily_vaccinations_per_million": 11996,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1512262,
+      "daily_vaccinations": 1517278,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1111,10 +1111,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1460244,
-      "daily_vaccinations_per_million": 11824,
+      "daily_vaccinations_raw": 1465985,
+      "daily_vaccinations_per_million": 11866,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1495486,
+      "daily_vaccinations": 1500806,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1123,10 +1123,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1445965,
-      "daily_vaccinations_per_million": 11682,
+      "daily_vaccinations_raw": 1452985,
+      "daily_vaccinations_per_million": 11726,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1477533,
+      "daily_vaccinations": 1483116,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1135,10 +1135,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1399114,
-      "daily_vaccinations_per_million": 11500,
+      "daily_vaccinations_raw": 1407840,
+      "daily_vaccinations_per_million": 11546,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1454559,
+      "daily_vaccinations": 1460379,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1147,10 +1147,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1414511,
-      "daily_vaccinations_per_million": 11340,
+      "daily_vaccinations_raw": 1421875,
+      "daily_vaccinations_per_million": 11389,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1434352,
+      "daily_vaccinations": 1440446,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1159,10 +1159,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1398289,
-      "daily_vaccinations_per_million": 11175,
+      "daily_vaccinations_raw": 1401069,
+      "daily_vaccinations_per_million": 11220,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1413378,
+      "daily_vaccinations": 1419124,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1171,10 +1171,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1235036,
-      "daily_vaccinations_per_million": 11075,
+      "daily_vaccinations_raw": 1238818,
+      "daily_vaccinations_per_million": 11120,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1400825,
+      "daily_vaccinations": 1406471,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1183,10 +1183,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1113018,
-      "daily_vaccinations_per_million": 10692,
+      "daily_vaccinations_raw": 1118935,
+      "daily_vaccinations_per_million": 10738,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1352311,
+      "daily_vaccinations": 1358215,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1195,10 +1195,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1385643,
-      "daily_vaccinations_per_million": 10607,
+      "daily_vaccinations_raw": 1391595,
+      "daily_vaccinations_per_million": 10654,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1341653,
+      "daily_vaccinations": 1347588,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1207,10 +1207,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1365015,
-      "daily_vaccinations_per_million": 10516,
+      "daily_vaccinations_raw": 1371134,
+      "daily_vaccinations_per_million": 10562,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1330089,
+      "daily_vaccinations": 1335895,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1219,10 +1219,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 582362,
-      "daily_vaccinations_per_million": 9593,
+      "daily_vaccinations_raw": 584638,
+      "daily_vaccinations_per_million": 9632,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1213410,
+      "daily_vaccinations": 1218294,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1231,10 +1231,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 446730,
-      "daily_vaccinations_per_million": 8500,
+      "daily_vaccinations_raw": 449491,
+      "daily_vaccinations_per_million": 8534,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1075156,
+      "daily_vaccinations": 1079382,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1243,10 +1243,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1193047,
-      "daily_vaccinations_per_million": 8269,
+      "daily_vaccinations_raw": 1197326,
+      "daily_vaccinations_per_million": 8304,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1045835,
+      "daily_vaccinations": 1050276,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1255,10 +1255,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1106326,
-      "daily_vaccinations_per_million": 8123,
+      "daily_vaccinations_raw": 1109029,
+      "daily_vaccinations_per_million": 8157,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1027448,
+      "daily_vaccinations": 1031735,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1267,10 +1267,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1349015,
-      "daily_vaccinations_per_million": 8390,
+      "daily_vaccinations_raw": 1356259,
+      "daily_vaccinations_per_million": 8425,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1061162,
+      "daily_vaccinations": 1065638,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1279,10 +1279,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1391933,
-      "daily_vaccinations_per_million": 8397,
+      "daily_vaccinations_raw": 1398286,
+      "daily_vaccinations_per_million": 8433,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1062061,
+      "daily_vaccinations": 1066594,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1291,10 +1291,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1401726,
-      "daily_vaccinations_per_million": 8438,
+      "daily_vaccinations_raw": 1408991,
+      "daily_vaccinations_per_million": 8475,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1067305,
+      "daily_vaccinations": 1072002,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1303,10 +1303,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1384106,
-      "daily_vaccinations_per_million": 9344,
+      "daily_vaccinations_raw": 1391623,
+      "daily_vaccinations_per_million": 9387,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1181840,
+      "daily_vaccinations": 1187286,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1315,10 +1315,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1432824,
-      "daily_vaccinations_per_million": 10458,
+      "daily_vaccinations_raw": 1440936,
+      "daily_vaccinations_per_million": 10507,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1322711,
+      "daily_vaccinations": 1328921,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1327,10 +1327,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1470460,
-      "daily_vaccinations_per_million": 10771,
+      "daily_vaccinations_raw": 1477179,
+      "daily_vaccinations_per_million": 10823,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1362341,
+      "daily_vaccinations": 1368900,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1339,10 +1339,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 7209995,
-      "daily_vaccinations_per_million": 10791,
+      "daily_vaccinations_raw": 7214533,
+      "daily_vaccinations_per_million": 10845,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1364900,
+      "daily_vaccinations": 1371721,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1351,10 +1351,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1161217,
-      "daily_vaccinations_per_million": 10579,
+      "daily_vaccinations_raw": 1169427,
+      "daily_vaccinations_per_million": 10634,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1338072,
+      "daily_vaccinations": 1345031,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1363,22 +1363,22 @@
       "total_vaccinations": 96854171,
       "people_fully_vaccinated_per_hundred": 31.680238723754883,
       "people_vaccinated_per_hundred": 44.89857482910156,
-      "daily_vaccinations_raw": 1213600,
-      "daily_vaccinations_per_million": 10378,
+      "daily_vaccinations_raw": 1221200,
+      "daily_vaccinations_per_million": 10434,
       "people_fully_vaccinated": 40068043,
-      "daily_vaccinations": 1312596,
+      "daily_vaccinations": 1319733,
       "total_vaccinations_per_hundred": 76.57881164550781
     },
     {
       "date": "2021-08-04",
       "people_vaccinated": 57443062,
       "total_vaccinations": 98284206,
-      "people_fully_vaccinated_per_hundred": 46.09311294555664,
+      "people_fully_vaccinated_per_hundred": 48.12519836425781,
       "people_vaccinated_per_hundred": 45.41798782348633,
-      "daily_vaccinations_raw": 1207690,
-      "daily_vaccinations_per_million": 10159,
-      "people_fully_vaccinated": 58296936,
-      "daily_vaccinations": 1284876,
+      "daily_vaccinations_raw": 1216175,
+      "daily_vaccinations_per_million": 10216,
+      "people_fully_vaccinated": 60867044,
+      "daily_vaccinations": 1292188,
       "total_vaccinations_per_hundred": 77.70948791503906
     },
     {
@@ -1387,10 +1387,10 @@
       "total_vaccinations": 99651092,
       "people_fully_vaccinated_per_hundred": 32.85634231567383,
       "people_vaccinated_per_hundred": 45.93388748168945,
-      "daily_vaccinations_raw": 1194030,
-      "daily_vaccinations_per_million": 9944,
+      "daily_vaccinations_raw": 1203150,
+      "daily_vaccinations_per_million": 10003,
       "people_fully_vaccinated": 41555539,
-      "daily_vaccinations": 1257723,
+      "daily_vaccinations": 1265263,
       "total_vaccinations_per_hundred": 78.79022979736328
     },
     {
@@ -1399,10 +1399,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1243836,
-      "daily_vaccinations_per_million": 9730,
+      "daily_vaccinations_raw": 1255894,
+      "daily_vaccinations_per_million": 9794,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1230724,
+      "daily_vaccinations": 1238829,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1411,10 +1411,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1381763,
-      "daily_vaccinations_per_million": 9630,
+      "daily_vaccinations_raw": 1394752,
+      "daily_vaccinations_per_million": 9701,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1218053,
+      "daily_vaccinations": 1227053,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1423,10 +1423,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1723209,
-      "daily_vaccinations_per_million": 10307,
+      "daily_vaccinations_raw": 1730317,
+      "daily_vaccinations_per_million": 10381,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 1303620,
+      "daily_vaccinations": 1312987,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1435,10 +1435,10 @@
       "total_vaccinations": 102913015,
       "people_fully_vaccinated_per_hundred": 34.22264099121094,
       "people_vaccinated_per_hundred": 47.146663665771484,
-      "daily_vaccinations_raw": 304977,
-      "daily_vaccinations_per_million": 9340,
+      "daily_vaccinations_raw": 307294,
+      "daily_vaccinations_per_million": 9407,
       "people_fully_vaccinated": 43283582,
-      "daily_vaccinations": 1181300,
+      "daily_vaccinations": 1189826,
       "total_vaccinations_per_hundred": 81.36930847167969
     },
     {
@@ -1447,10 +1447,10 @@
       "total_vaccinations": 105680550,
       "people_fully_vaccinated_per_hundred": 35.69514083862305,
       "people_vaccinated_per_hundred": 47.86235046386719,
-      "daily_vaccinations_raw": 1095164,
-      "daily_vaccinations_per_million": 9206,
+      "daily_vaccinations_raw": 1105926,
+      "daily_vaccinations_per_million": 9277,
       "people_fully_vaccinated": 45145947,
-      "daily_vaccinations": 1164381,
+      "daily_vaccinations": 1173358,
       "total_vaccinations_per_hundred": 83.55748748779297
     },
     {
@@ -1459,10 +1459,10 @@
       "total_vaccinations": 107081571,
       "people_fully_vaccinated_per_hundred": 36.28457260131836,
       "people_vaccinated_per_hundred": 48.380645751953125,
-      "daily_vaccinations_raw": 1033528,
-      "daily_vaccinations_per_million": 9009,
+      "daily_vaccinations_raw": 1043576,
+      "daily_vaccinations_per_million": 9082,
       "people_fully_vaccinated": 45891443,
-      "daily_vaccinations": 1139501,
+      "daily_vaccinations": 1148701,
       "total_vaccinations_per_hundred": 84.66521453857422
     },
     {
@@ -1471,10 +1471,10 @@
       "total_vaccinations": 108179498,
       "people_fully_vaccinated_per_hundred": 36.70417785644531,
       "people_vaccinated_per_hundred": 48.82912826538086,
-      "daily_vaccinations_raw": 757241,
-      "daily_vaccinations_per_million": 8516,
+      "daily_vaccinations_raw": 765196,
+      "daily_vaccinations_per_million": 8587,
       "people_fully_vaccinated": 46422145,
-      "daily_vaccinations": 1077102,
+      "daily_vaccinations": 1086136,
       "total_vaccinations_per_hundred": 85.5333023071289
     },
     {
@@ -1483,10 +1483,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 529576,
-      "daily_vaccinations_per_million": 7709,
+      "daily_vaccinations_raw": 535825,
+      "daily_vaccinations_per_million": 7774,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 975065,
+      "daily_vaccinations": 983269,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1495,10 +1495,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 651682,
-      "daily_vaccinations_per_million": 6884,
+      "daily_vaccinations_raw": 660512,
+      "daily_vaccinations_per_million": 6944,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 870768,
+      "daily_vaccinations": 878378,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1507,10 +1507,10 @@
       "total_vaccinations": 109911890,
       "people_fully_vaccinated_per_hundred": 37.344337463378906,
       "people_vaccinated_per_hundred": 49.5587043762207,
-      "daily_vaccinations_raw": 864490,
-      "daily_vaccinations_per_million": 5914,
+      "daily_vaccinations_raw": 873331,
+      "daily_vaccinations_per_million": 5977,
       "people_fully_vaccinated": 47231796,
-      "daily_vaccinations": 748094,
+      "daily_vaccinations": 755951,
       "total_vaccinations_per_hundred": 86.90303802490234
     },
     {
@@ -1519,10 +1519,10 @@
       "total_vaccinations": 111050989,
       "people_fully_vaccinated_per_hundred": 37.80929946899414,
       "people_vaccinated_per_hundred": 49.994380950927734,
-      "daily_vaccinations_raw": 789089,
-      "daily_vaccinations_per_million": 6461,
+      "daily_vaccinations_raw": 806521,
+      "daily_vaccinations_per_million": 6540,
       "people_fully_vaccinated": 47819864,
-      "daily_vaccinations": 817252,
+      "daily_vaccinations": 827269,
       "total_vaccinations_per_hundred": 87.8036880493164
     },
     {
@@ -1531,10 +1531,10 @@
       "total_vaccinations": 113351510,
       "people_fully_vaccinated_per_hundred": 39.02396774291992,
       "people_vaccinated_per_hundred": 50.59864807128906,
-      "daily_vaccinations_raw": 963660,
-      "daily_vaccinations_per_million": 6313,
+      "daily_vaccinations_raw": 988026,
+      "daily_vaccinations_per_million": 6407,
       "people_fully_vaccinated": 49356133,
-      "daily_vaccinations": 798466,
+      "daily_vaccinations": 810426,
       "total_vaccinations_per_hundred": 89.62261962890625
     },
     {
@@ -1543,10 +1543,10 @@
       "total_vaccinations": 114664353,
       "people_fully_vaccinated_per_hundred": 39.52552032470703,
       "people_vaccinated_per_hundred": 51.135108947753906,
-      "daily_vaccinations_raw": 960239,
-      "daily_vaccinations_per_million": 6230,
+      "daily_vaccinations_raw": 993339,
+      "daily_vaccinations_per_million": 6350,
       "people_fully_vaccinated": 49990477,
-      "daily_vaccinations": 787996,
+      "daily_vaccinations": 803250,
       "total_vaccinations_per_hundred": 90.66062927246094
     },
     {
@@ -1555,10 +1555,10 @@
       "total_vaccinations": 115739998,
       "people_fully_vaccinated_per_hundred": 39.94981002807617,
       "people_vaccinated_per_hundred": 51.5612907409668,
-      "daily_vaccinations_raw": 917551,
-      "daily_vaccinations_per_million": 6411,
+      "daily_vaccinations_raw": 950569,
+      "daily_vaccinations_per_million": 6560,
       "people_fully_vaccinated": 50527102,
-      "daily_vaccinations": 810898,
+      "daily_vaccinations": 829731,
       "total_vaccinations_per_hundred": 91.51110076904297
     },
     {
@@ -1567,10 +1567,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 934423,
-      "daily_vaccinations_per_million": 6868,
+      "daily_vaccinations_raw": 981501,
+      "daily_vaccinations_per_million": 7063,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 868733,
+      "daily_vaccinations": 893399,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1579,10 +1579,10 @@
       "total_vaccinations": 0,
       "people_fully_vaccinated_per_hundred": 0,
       "people_vaccinated_per_hundred": 0,
-      "daily_vaccinations_raw": 1082491,
-      "daily_vaccinations_per_million": 7355,
+      "daily_vaccinations_raw": 1137916,
+      "daily_vaccinations_per_million": 7603,
       "people_fully_vaccinated": 0,
-      "daily_vaccinations": 930277,
+      "daily_vaccinations": 961600,
       "total_vaccinations_per_hundred": 0
     },
     {
@@ -1591,10 +1591,10 @@
       "total_vaccinations": 118310106,
       "people_fully_vaccinated_per_hundred": 40.936946868896484,
       "people_vaccinated_per_hundred": 52.60623550415039,
-      "daily_vaccinations_raw": 788332,
-      "daily_vaccinations_per_million": 7269,
+      "daily_vaccinations_raw": 851316,
+      "daily_vaccinations_per_million": 7578,
       "people_fully_vaccinated": 51775600,
-      "daily_vaccinations": 919397,
+      "daily_vaccinations": 958455,
       "total_vaccinations_per_hundred": 93.54318237304688
     },
     {
@@ -1603,10 +1603,10 @@
       "total_vaccinations": 119818884,
       "people_fully_vaccinated_per_hundred": 41.54027557373047,
       "people_vaccinated_per_hundred": 53.19584274291992,
-      "daily_vaccinations_raw": 735270,
-      "daily_vaccinations_per_million": 7208,
+      "daily_vaccinations_raw": 815878,
+      "daily_vaccinations_per_million": 7588,
       "people_fully_vaccinated": 52538669,
-      "daily_vaccinations": 911709,
+      "daily_vaccinations": 959792,
       "total_vaccinations_per_hundred": 94.73611450195312
     },
     {
@@ -1615,11 +1615,23 @@
       "total_vaccinations": 122223024,
       "people_fully_vaccinated_per_hundred": 42.77995300292969,
       "people_vaccinated_per_hundred": 53.857025146484375,
-      "daily_vaccinations_raw": 607038,
-      "daily_vaccinations_per_million": 6805,
+      "daily_vaccinations_raw": 779064,
+      "daily_vaccinations_per_million": 7352,
       "people_fully_vaccinated": 54106570,
-      "daily_vaccinations": 860763,
+      "daily_vaccinations": 929940,
       "total_vaccinations_per_hundred": 96.63697814941406
+    },
+    {
+      "date": "2021-08-25",
+      "people_vaccinated": 68700557,
+      "total_vaccinations": 123412140,
+      "people_fully_vaccinated_per_hundred": 43.25831604003906,
+      "people_vaccinated_per_hundred": 54.318851470947266,
+      "daily_vaccinations_raw": 598656,
+      "daily_vaccinations_per_million": 6906,
+      "people_fully_vaccinated": 54711583,
+      "daily_vaccinations": 873557,
+      "total_vaccinations_per_hundred": 97.57716369628906
     }
   ],
   "iso_code": "JPN"
